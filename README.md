@@ -110,5 +110,5 @@ This project implements an item-based collaborative filtering recommendation sys
 I'm actively seeking opportunities in AI/Data Science & Recommender Systems.
 
 - 📧 **ics22106@uom.edu.gr**
-- 💼 LinkedIn: *(optional – add your profile)*
+- 💼 LinkedIn:  *[here](https://www.linkedin.com/in/petros-vezalis1/ )*
 
